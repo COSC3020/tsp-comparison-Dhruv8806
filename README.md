@@ -23,3 +23,16 @@ Local Search found. Why is this?
 
 Add the code to run your experiments, graphs, and an explanation of what you did
 to this markdown file.
+
+### My analysis 
+
+In this Empirical Analysis method, I've tested it with 13 different input size graphs, by ensuring different scenarios. The runtime didn't changed much for the first couple input size. But Mostly after input size 8 the graph started to differ more.
+
+Combining these two different strategies: Held-Karp and Local Search. Held-karp will always gives us the shortest route or an equally short one compared to Local search. This is because Held-karp looks for absolute best route.
+
+On the other hand, Local search is more about efficiency. It keeps refining the route until it can't make it any better. It might not always fiind the very best route, and the route length can change with each try. 
+
+By putting it together, we get the accuracy of Held-Karp, ensuring the best route, and the efficiency from Local Search. 
+
+I've attached `code.js` with both implementation of tsp_hk and tsp_ls , `code.test.js` with 13 different grapph scenarios , `data.txt` with 13 different graph data , `lengthanalysisgraph.jpg` for comparing length `Timeanalysisgraph.jpg` for comparing time in milliseconds. 
+
