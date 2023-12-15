@@ -1,0 +1,77 @@
+Test Case 1
+Test HK:  0
+Held-Karp: 0.931ms
+Test LS:  0
+Local Search: 0.632ms
+
+Test Case 2
+Test HK:  1
+Held-Karp: 0.539ms
+Test LS:  1
+Local Search: 0.737ms
+
+Test Case 3
+Test HK:  3
+Held-Karp: 0.466ms
+Test LS:  3
+Local Search: 0.245ms
+
+Test Case 4
+Test HK:  6
+Held-Karp: 0.725ms
+Test LS:  6
+Local Search: 0.646ms
+
+Test Case 5
+Test HK:  10
+Held-Karp: 0.68ms
+Test LS:  11
+Local Search: 0.462ms
+
+Test Case 6
+Test HK:  6
+Held-Karp: 2.245ms
+Test LS:  7
+Local Search: 0.243ms
+
+Test Case 7
+Test HK:  20
+Held-Karp: 3.664ms
+Test LS:  22
+Local Search: 0.77ms
+
+Test Case 8
+Test HK:  23
+Held-Karp: 7.821ms
+Test LS:  24
+Local Search: 0.483ms
+
+Test Case 9
+Test HK:  95
+Held-Karp: 17.424ms
+Test LS:  104
+Local Search: 0.56ms
+
+Test Case 10
+Test HK:  47
+Held-Karp: 32.581ms
+Test LS:  58
+Local Search: 0.379ms
+
+Test Case 11
+Test HK:  68
+Held-Karp: 72.755ms
+Test LS:  73
+Local Search: 0.437ms
+
+Test Case 12
+Test HK:  15
+Held-Karp: 172.207ms
+Test LS:  22
+Local Search: 0.478ms
+
+Test Case 13
+Test HK:  16
+Held-Karp: 429.59ms
+Test LS:  20
+Local Search: 0.617ms
